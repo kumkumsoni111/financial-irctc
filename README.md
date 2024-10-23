@@ -1,4 +1,4 @@
-IRCTC Comprehensive Financial Analytics Dashboard 🚆📊
+##IRCTC Comprehensive Financial Analytics Dashboard 🚆📊
 Welcome to the IRCTC Financial Analytics Dashboard repository! This project provides an in-depth analysis of IRCTC’s financial health over the past decade, utilizing Power BI to present key financial insights.
 
 🔍 Overview
