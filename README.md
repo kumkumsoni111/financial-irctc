@@ -12,9 +12,6 @@ Cash Flow View: Insights into cash inflows and outflows over the years.
 Ratio Analysis: Key financial ratios like ROE, ROCE, EPS, and more.
 Executive Summary: A top-level overview of IRCTC's financial performance.
 
-🖥 Live Dashboard
-Check out the live dashboard here.
-
 🎯 Key Achievements
 Custom Analysis: Tailored insights focusing on IRCTC’s financial performance.
 Data Engineering: Cleaned and structured 10 years of financial data from the Screener website.
