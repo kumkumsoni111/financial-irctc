@@ -6,53 +6,72 @@ Welcome to the IRCTC Financial Analytics Dashboard repository! This project prov
 
 The IRCTC Financial Analytics Dashboard is designed to analyze the financial performance of IRCTC using data sourced from Screener. This repository contains all project files and documentation necessary to explore IRCTC's Profit & Loss, Balance Sheet, and Cash Flow statements.
 
-Live Dashboard [Link][]
-
-🌟 Features
-
-Profit & Loss View: Analyzes key financial metrics such as revenue, expenses, and profit.
-Balance Sheet View: Detailed breakdown of assets, liabilities, and equity.
-Cash Flow View: Insights into cash inflows and outflows over the years.
-Ratio Analysis: Key financial ratios like ROE, ROCE, EPS, and more.
-Executive Summary: A top-level overview of IRCTC's financial performance.
+# **Live Dashboard**
+Explore the dashboard here [Link](https://github.com/kumkumsoni111/financial-irctc/blob/main/financial%20youtube%20project.pbix)
 
 
-🎯 Key Achievements
+## **🚀 Getting Started**
+Clone this repository.
 
-Custom Analysis: Tailored insights focusing on IRCTC’s financial performance.
-Data Engineering: Cleaned and structured 10 years of financial data from the Screener website.
-Advanced Visualizations: Engaging and interactive charts to provide a clear understanding of IRCTC’s financials.
-Efficiency: Optimized report performance for quick insights.
+Open the project in **Power BI Desktop**.
 
-
-🚀 Getting Started
-
-Clone this repository to your local machine.
-Open the .pbix file using Power BI Desktop.
-Explore the data model, visualizations, and reports.
+Explore the data model and visualizations.
 
 
-📚 Data Sources
+# **🌟 Features**
+
+**Profit & Loss View**: Analyzes key financial metrics such as revenue, expenses, and profit.
+
+**Balance Sheet View**: Detailed breakdown of assets, liabilities, and equity.
+
+**Cash Flow View**: Insights into cash inflows and outflows over the years.
+
+**Ratio Analysis**: Key financial ratios like ROE, ROCE, EPS, and more.
+
+**Executive Summary**: A top-level overview of IRCTC's financial performance.
+
+
+
+# **🎯 Key Achievements**
+
+
+**Custom Analysis**: Tailored insights focusing on IRCTC’s financial performance.
+
+**Data Engineering**: Cleaned and structured 10 years of financial data from the Screener website.
+
+**Advanced Visualizations**: Engaging and interactive charts to provide a clear understanding of IRCTC’s financials.
+
+**Efficiency**: Optimized report performance for quick insights.
+
+
+## **📚 Data Sources**
 
 This dashboard integrates data from the following sources:
+
 Excel: Cleaned financial data from Screener (Profit & Loss, Balance Sheet, Cash Flow).
+
 Screener: Financial data for IRCTC over the last decade.
 
 
-🔧 Prerequisites
+
+## **About Screener**
+Screener is a financial research platform offering a wide range of financial data for Indian companies, including historical data on Profit & Loss, Balance Sheets, Cash Flows, and other metrics. It’s a popular tool among investors and analysts for obtaining detailed insights into companies' financial performance, enabling more informed investment decisions.
+
+# **🔧 Prerequisites**
 
 Power BI Desktop for exploring the dashboard.
+
 Excel for data preprocessing.
 
 
-💡 How to Contribute
+# **💡 How to Contribute**
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open issues or submit pull requests.
 
 
-🙌 Acknowledgments
+## **🙌 Acknowledgments**
 
-Special thanks to Mohd Kasfur Dhuniyan Sir for his valuable guidance and mentorship throughout this project.
+Special thanks to  Mohd Kasfur Dhuniyan Sir for his valuable guidance and mentorship throughout this project.
 
 
-📊 Explore the insights and dive deep into IRCTC’s financial journey!
+**📊 Explore the insights and dive deep into IRCTC’s financial journey!**
