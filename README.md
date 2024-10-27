@@ -12,6 +12,8 @@ Explore the dashboard here [Link](https://github.com/kumkumsoni111/financial-irc
 # ** Glimpse of Report**
 [here](https://github.com/kumkumsoni111/financial-irctc/blob/main/financial%20project.pdf)
 
+# ** Dataset **
+[link](https://github.com/kumkumsoni111/financial-irctc/blob/main/IRCTC%20Financial%20Data.xlsx)
 
 ## **🚀 Getting Started**
 Clone this repository.
