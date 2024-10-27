@@ -10,7 +10,7 @@ The IRCTC Financial Analytics Dashboard is designed to analyze the financial per
 Explore the dashboard here [Link](https://github.com/kumkumsoni111/financial-irctc/blob/main/financial%20youtube%20project.pbix)
 
 # ** Glimpse of Report**
-[here]()
+[here](https://github.com/kumkumsoni111/financial-irctc/blob/main/financial%20project.pdf)
 
 
 ## **🚀 Getting Started**
