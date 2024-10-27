@@ -1,11 +1,12 @@
-IRCTC Comprehensive Financial Analytics Dashboard 🚆📊
+# **IRCTC Advance Financial Analytics Dashboard 🚆📊**
 
 Welcome to the IRCTC Financial Analytics Dashboard repository! This project provides an in-depth analysis of IRCTC’s financial health over the past decade, utilizing Power BI to present key financial insights.
 
-🔍 Overview
+## **🔍 Overview**
 
 The IRCTC Financial Analytics Dashboard is designed to analyze the financial performance of IRCTC using data sourced from Screener. This repository contains all project files and documentation necessary to explore IRCTC's Profit & Loss, Balance Sheet, and Cash Flow statements.
 
+Live Dashboard [Link][]
 
 🌟 Features
 
