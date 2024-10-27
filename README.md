@@ -6,14 +6,11 @@ Welcome to the IRCTC Financial Analytics Dashboard repository! This project prov
 
 The IRCTC Financial Analytics Dashboard is designed to analyze the financial performance of IRCTC using data sourced from Screener. This repository contains all project files and documentation necessary to explore IRCTC's Profit & Loss, Balance Sheet, and Cash Flow statements.
 
-# **Live Dashboard**
-Explore the dashboard here [Link](https://github.com/kumkumsoni111/financial-irctc/blob/main/financial%20youtube%20project.pbix)
+## Live Dashboard :  Explore the dashboard here [Link](https://github.com/kumkumsoni111/financial-irctc/blob/main/financial%20youtube%20project.pbix)
 
-# ** Glimpse of Report**
-[here](https://github.com/kumkumsoni111/financial-irctc/blob/main/financial%20project.pdf)
+## Glimpse of Report : [here](https://github.com/kumkumsoni111/financial-irctc/blob/main/financial%20project.pdf)
 
-# ** Dataset **
-[link](https://github.com/kumkumsoni111/financial-irctc/blob/main/IRCTC%20Financial%20Data.xlsx)
+## Dataset : [link](https://github.com/kumkumsoni111/financial-irctc/blob/main/IRCTC%20Financial%20Data.xlsx)
 
 ## **🚀 Getting Started**
 Clone this repository.
